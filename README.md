@@ -13,3 +13,7 @@ Initial experiments with KNN, Random Forest, and Logistic Regression resulted in
 A tuned Logistic Regression model with TF-IDF features and hyperparameter optimization using GridSearchCV achieved the best accuracy.
 ### Evaluation: 
 Performance was evaluated using accuracy, confusion matrix, and other classification metrics.
+### Conclusion
+GridSearchCV and TF-IDF feature engineering significantly improved model performance. The final model predicts ratings with 63% accuracy, making it a robust baseline for future enhancements.
+
+
